@@ -1,0 +1,4 @@
+1) buffer
+https://www.guru99.com/buffered-reader-in-java.html
+2) StringTokenizer 
+http://puntocomnoesunlenguaje.blogspot.com/2013/04/java-stringtokenizer.html
